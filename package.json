@@ -1,0 +1,14 @@
+{
+  "name": "cypress_test_runner",
+  "version": "1.0.0",
+  "description": "Various test scenario run using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yanice Sze",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
