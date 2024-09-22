@@ -1,0 +1,14 @@
+{
+    "wrongData": {
+        "birthdate": "1990-01-01",
+        "email": "abc@gmail.com",
+        "phone": "800551234"
+    },
+    "correctData": {
+        "firstname": "Shjgd",
+        "lastname": "Adshdo",
+        "birthdate": "1990-01-01",
+        "email": "abc@gmail.com",
+        "phone": "800551234"
+    }
+}

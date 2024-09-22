@@ -32,4 +32,5 @@ describe ("login scenario", function(){
     afterEach(()=> {
         cy.get('#logout').click()
     })
+    
 })
